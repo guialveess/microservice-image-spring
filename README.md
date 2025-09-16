@@ -64,6 +64,9 @@ src/
 │   │       │   └── ImageResponseDTO.java
 │   │       ├── entities/
 │   │       │   └── Image.java
+│   │       ├── exceptions/
+│   │       │   └── GlobalExceptionHandler.java
+│   │       │   └── ImageNotFoundException.java
 │   │       ├── repository/
 │   │       │   └── ImageRepository.java
 │   │       └── service/
