@@ -1,4 +1,4 @@
-package com.guialves.image_service.exceptions;
+package com.guialves.image_service.core.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

@@ -1,4 +1,4 @@
-package com.guialves.image_service.config;
+package com.guialves.image_service.infrastructure.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

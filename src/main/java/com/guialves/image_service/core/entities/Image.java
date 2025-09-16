@@ -1,4 +1,4 @@
-package com.guialves.image_service.entities;
+package com.guialves.image_service.core.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
